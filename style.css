@@ -1,0 +1,64 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2022. febr. 12., 10:41:50
+    Author     : Tanulo
+*/
+body{
+    color: black;
+    background-color: #eee; 
+   /*font-family: 'Brush Script MT', cursive;*/
+}
+h1,h2{
+    font-weight: bold; 
+    text-decoration: underline;
+    
+}
+#content {
+    padding: 0px;
+    background-color: white;
+    width: 1400px;
+    text-align: center; 
+    margin: 0 auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+    
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #ddd;
+  }
+  
+  li a.active {
+    color: white;
+    background-color: #04AA6D;
+  }
+  img{
+    margin: 20px auto;
+}
+footer{
+    text-align: center;
+    background-color: yellow;
+}
+header{
+    background-color: yellow;
+}
