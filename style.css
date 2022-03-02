@@ -62,3 +62,7 @@ footer{
 header{
     background-color: yellow;
 }
+
+form{
+    text-align: right;
+}
